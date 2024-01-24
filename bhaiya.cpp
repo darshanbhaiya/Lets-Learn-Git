@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
     cout<<"multiply feature added";
-    return 0;
+    cout<<"hello darshan"
 }
